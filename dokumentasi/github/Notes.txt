@@ -1,1 +1,0 @@
-“Repository GitHub dengan status private dibuat untuk mendukung proses version control dan dokumentasi pengembangan sistem.”
