@@ -1,4 +1,31 @@
-2025/12/17-15:14:15.712 7bac Reusing MANIFEST C:\Zulfano\Zulfano\Binus\OneDrive - Bina Nusantara\Skripsi\implementasi_whatsapp_bot\backend\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/12/17-15:14:15.713 7bac Recovering log #45
-2025/12/17-15:14:15.729 7bac Reusing old log C:\Zulfano\Zulfano\Binus\OneDrive - Bina Nusantara\Skripsi\implementasi_whatsapp_bot\backend\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000045.log 
-2025/12/17-15:14:30.455 8770 Manual compaction at level-0 from '\x00\x1a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1b\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/12/17-21:49:52.288 4f28 Reusing MANIFEST C:\Zulfano\Zulfano\Binus\OneDrive - Bina Nusantara\Skripsi\implementasi_whatsapp_bot\backend\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/17-21:49:52.289 4f28 Recovering log #57
+2025/12/17-21:49:52.376 4f28 Reusing old log C:\Zulfano\Zulfano\Binus\OneDrive - Bina Nusantara\Skripsi\implementasi_whatsapp_bot\backend\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000057.log 
+2025/12/17-21:49:54.444 7bbc Level-0 table #62: started
+2025/12/17-21:49:54.469 7bbc Level-0 table #62: 313409 bytes OK
+2025/12/17-21:49:54.471 7bbc Delete type=0 #57
+2025/12/17-21:49:54.472 7bbc Manual compaction at level-0 from '\x00\x1e\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1f\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/12/17-21:49:54.651 7bbc Compacting 1@1 + 1@2 files
+2025/12/17-21:49:54.799 7bbc Generated table #63@1: 41171 keys, 1701221 bytes
+2025/12/17-21:49:54.799 7bbc Compacted 1@1 + 1@2 files => 1701221 bytes
+2025/12/17-21:49:54.799 7bbc compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/12/17-21:49:54.800 7bbc Delete type=2 #59
+2025/12/17-21:49:54.800 7bbc Delete type=2 #62
+2025/12/17-22:08:51.922 7a44 Level-0 table #65: started
+2025/12/17-22:08:51.995 7a44 Level-0 table #65: 1460724 bytes OK
+2025/12/17-22:08:51.998 7a44 Delete type=0 #61
+2025/12/17-22:09:33.897 7a44 Compacting 1@1 + 1@2 files
+2025/12/17-22:09:34.123 7a44 Generated table #66@1: 46617 keys, 1920370 bytes
+2025/12/17-22:09:34.123 7a44 Compacted 1@1 + 1@2 files => 1920370 bytes
+2025/12/17-22:09:34.124 7a44 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/12/17-22:09:34.125 7a44 Delete type=2 #63
+2025/12/17-22:09:34.125 7a44 Delete type=2 #65
+2025/12/17-22:36:24.982 4ea4 Level-0 table #68: started
+2025/12/17-22:36:25.046 4ea4 Level-0 table #68: 1339978 bytes OK
+2025/12/17-22:36:25.049 4ea4 Delete type=0 #64
+2025/12/17-22:36:25.351 4ea4 Compacting 1@1 + 1@2 files
+2025/12/17-22:36:25.622 4ea4 Generated table #69@1: 53398 keys, 2186646 bytes
+2025/12/17-22:36:25.622 4ea4 Compacted 1@1 + 1@2 files => 2186646 bytes
+2025/12/17-22:36:25.623 4ea4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/12/17-22:36:25.624 4ea4 Delete type=2 #66
+2025/12/17-22:36:25.624 4ea4 Delete type=2 #68

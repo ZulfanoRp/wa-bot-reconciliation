@@ -1,3 +1,6 @@
-2025/12/17-15:14:15.204 8770 Reusing MANIFEST C:\Zulfano\Zulfano\Binus\OneDrive - Bina Nusantara\Skripsi\implementasi_whatsapp_bot\backend\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
-2025/12/17-15:14:15.205 8770 Recovering log #3
-2025/12/17-15:14:15.206 8770 Reusing old log C:\Zulfano\Zulfano\Binus\OneDrive - Bina Nusantara\Skripsi\implementasi_whatsapp_bot\backend\.wwebjs_auth\session\Default\Local Storage\leveldb/000003.log 
+2025/12/17-21:49:51.468 4394 Reusing MANIFEST C:\Zulfano\Zulfano\Binus\OneDrive - Bina Nusantara\Skripsi\implementasi_whatsapp_bot\backend\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
+2025/12/17-21:49:51.469 4394 Recovering log #3
+2025/12/17-21:49:51.474 4394 Reusing old log C:\Zulfano\Zulfano\Binus\OneDrive - Bina Nusantara\Skripsi\implementasi_whatsapp_bot\backend\.wwebjs_auth\session\Default\Local Storage\leveldb/000003.log 
+2025/12/17-21:50:52.415 7638 Level-0 table #5: started
+2025/12/17-21:50:52.423 7638 Level-0 table #5: 18094 bytes OK
+2025/12/17-21:50:52.424 7638 Delete type=0 #3
