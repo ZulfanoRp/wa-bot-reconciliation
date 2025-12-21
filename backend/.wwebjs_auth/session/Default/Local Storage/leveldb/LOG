@@ -1,6 +1,15 @@
-2025/12/17-21:49:51.468 4394 Reusing MANIFEST C:\Zulfano\Zulfano\Binus\OneDrive - Bina Nusantara\Skripsi\implementasi_whatsapp_bot\backend\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
-2025/12/17-21:49:51.469 4394 Recovering log #3
-2025/12/17-21:49:51.474 4394 Reusing old log C:\Zulfano\Zulfano\Binus\OneDrive - Bina Nusantara\Skripsi\implementasi_whatsapp_bot\backend\.wwebjs_auth\session\Default\Local Storage\leveldb/000003.log 
-2025/12/17-21:50:52.415 7638 Level-0 table #5: started
-2025/12/17-21:50:52.423 7638 Level-0 table #5: 18094 bytes OK
-2025/12/17-21:50:52.424 7638 Delete type=0 #3
+2025/12/21-09:16:45.179 7b78 Reusing MANIFEST C:\Zulfano\Zulfano\Binus\implementasi_whatsapp_bot\backend\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
+2025/12/21-09:16:45.180 7b78 Recovering log #19
+2025/12/21-09:16:45.182 7b78 Reusing old log C:\Zulfano\Zulfano\Binus\implementasi_whatsapp_bot\backend\.wwebjs_auth\session\Default\Local Storage\leveldb/000019.log 
+2025/12/21-09:26:56.977 4748 Level-0 table #23: started
+2025/12/21-09:26:56.985 4748 Level-0 table #23: 16143 bytes OK
+2025/12/21-09:26:56.987 4748 Delete type=0 #19
+2025/12/21-09:26:56.988 4748 Compacting 4@0 + 1@1 files
+2025/12/21-09:26:56.994 4748 Generated table #24@0: 158 keys, 9343 bytes
+2025/12/21-09:26:56.994 4748 Compacted 4@0 + 1@1 files => 9343 bytes
+2025/12/21-09:26:56.995 4748 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/12/21-09:26:56.996 4748 Delete type=2 #11
+2025/12/21-09:26:56.996 4748 Delete type=2 #14
+2025/12/21-09:26:56.996 4748 Delete type=2 #17
+2025/12/21-09:26:56.996 4748 Delete type=2 #20
+2025/12/21-09:26:56.996 4748 Delete type=2 #23

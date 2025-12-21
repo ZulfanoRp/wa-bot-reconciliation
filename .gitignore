@@ -1,16 +1,17 @@
-# Runtime files
-.session/
+# WhatsApp Web session & cache
+backend/.wwebjs_auth/
+backend/.wwebjs_cache/
 
 # Environment
-.env
+backend/.env
 
 # Node
-node_modules/
+backend/node_modules/
 
 # Logs
-logs/
 *.log
+logs/
 
-# Build (kalau nanti React)
-build/
-dist/
+# Build React
+web-whitelist/build/
+web-whitelist/dist/
